@@ -1,2 +1,2 @@
 #!/bin/bash
-rfrnet towel.blinkenlights.nl
+telnet towel.blinkenlights.nl
